@@ -10,6 +10,9 @@ Just include the file add add a config like `useThousandSeparator: true` to aby 
 
 You can also change the separator character by setting it on `Ext.util.Format.thousandSeparator`.
 
+* See demo: http://jsfiddle.net/OmidShariati/q2gR2/embedded/result/
+* See sample code on fiddle: http://jsfiddle.net/OmidShariati/q2gR2/
+
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/omids20m/ext.override.thousandseparatornumberfield/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
